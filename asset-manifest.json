@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ra-9.1-router-menu/static/css/main.beef88a4.css",
+    "main.js": "/ra-9.1-router-menu/static/js/main.15000ed3.js",
+    "static/js/787.4b4efdd6.chunk.js": "/ra-9.1-router-menu/static/js/787.4b4efdd6.chunk.js",
+    "static/media/Inter.ttf": "/ra-9.1-router-menu/static/media/Inter.9cd7588f47651215d52f.ttf",
+    "index.html": "/ra-9.1-router-menu/index.html",
+    "main.beef88a4.css.map": "/ra-9.1-router-menu/static/css/main.beef88a4.css.map",
+    "main.15000ed3.js.map": "/ra-9.1-router-menu/static/js/main.15000ed3.js.map",
+    "787.4b4efdd6.chunk.js.map": "/ra-9.1-router-menu/static/js/787.4b4efdd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beef88a4.css",
+    "static/js/main.15000ed3.js"
+  ]
+}
